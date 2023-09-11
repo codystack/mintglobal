@@ -1,0 +1,26 @@
+/****fonts*****/
+@font-face {
+  font-family: Noe Display;
+  src: url("fonts/noe-display-bold-e6d0cf221c.woff") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face { font-family: Maison; src: url("fonts/MaisonNeue-Light-d255fa8de514e5a93aec700a82c007ce.woff") format("woff"), url("fonts/MaisonNeue-Light-d255fa8de514e5a93aec700a82c007ce.woff") format("woff2"); font-style: normal; font-weight: 200; font-display: swap; 
+}
+
+@font-face { font-family: Maison; src: url("fonts/MaisonNeue-Medium-9854e76be036ee2e3e1cabf3802e7660.woff") format("woff"), url("fonts/MaisonNeue-Medium-9854e76be036ee2e3e1cabf3802e7660.woff") format("woff2"); font-style: normal; font-weight: 400; font-display: swap; 
+}
+
+@font-face { font-family: Maison; src: url("fonts/MaisonNeue-Demi-3d5e28fcf3c142597c4429ea422cc1dc.woff") format("woff"), url("fonts/MaisonNeue-Demi-3d5e28fcf3c142597c4429ea422cc1dc.woff") format("woff2"); font-style: normal; font-weight: 500; font-display: swap; 
+}
+
+
+@font-face {
+  font-family: Noe Display Regular;
+  src: url("fonts/noe-display-regular.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+
