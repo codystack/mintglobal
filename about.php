@@ -5,7 +5,7 @@
 ?>
 
     <main>
-        <!--? Hero Start -->
+        
         <div class="slider-area2 section-bg2" data-background="assets/img/hero/hero2.png">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
@@ -19,8 +19,7 @@
                 </div>
             </div>
         </div>
-        <!-- Hero End -->
-        <!--? About 1 Start-->
+        
         <section class="about-low-area section-padding30">
             <div class="container">
                 <div class="row justify-content-between">
@@ -36,11 +35,11 @@
                     <div class="col-xl-5 col-lg-6 col-md-9 offset-md-1 offset-sm-1">
                         <div class="about-right-cap">
                             <div class="about-right-img">
-                                <img src="assets/img/gallery/about1.png" alt="">
+                                <img src="assets/img/about.jpg" alt="">
                             </div>
                             <div class="img-cap">
-                                <span>20</span>
-                                <p>Years of experience</p>
+                                <span>#1</span>
+                                <p>in offering services to Engineering, Marine and Oil & Gas Sectors</p>
                             </div>
                         </div>
                     </div>
@@ -82,17 +81,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="single-cat">
-                            <div class="cat-icon">
-                                <img src="assets/img/gallery/icon4.png" alt="">
-                            </div>
-                            <div class="cat-cap">
-                                <h5><a href="services.html">Manufacturing</a></h5>
-                                <p>We collect and analyze information about your general usage of the website, products, services, and courses.</p>
-                            </div>
-                        </div>
-                    </div> -->
                 </div>
             </div>
         </div>
