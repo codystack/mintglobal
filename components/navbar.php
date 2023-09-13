@@ -35,7 +35,14 @@
                                             <ul id="navigation">                                                                                          
                                                 <li class="<?php if($page=='Home'){echo 'active';}?>"><a href="./">home</a></li>
                                                 <li class="<?php if($page=='About'){echo 'active';}?>"><a href="about">about us</a></li>
-                                                <li class="<?php if($page=='Services'){echo 'active';}?>"><a href="services">services</a></li>
+                                                <li><a href="#">services</a>
+                                                    <ul class="submenu">
+                                                        <li><a href="">engineering services</a></li>
+                                                        <li><a href="">procurement services</a></li>
+                                                        <li><a href="">consultancy and manpower services</a></li>
+                                                        <li><a href="">leasing and projects support services</a></li>
+                                                    </ul>
+                                                </li>
                                                 <li class="<?php if($page=='Projects'){echo 'active';}?>"><a href="#">projects</a></li>
                                             </ul>
                                             <div class="d-none d-xs-block">

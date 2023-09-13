@@ -29,7 +29,7 @@
                             <div class="thumb-content-box">
                                 <div class="thumb-content">
                                     <h3><a href="#">Need to make<br> an enquiry?</a></h3>
-                                    <p>We collect and analyze information about your general usage of the website products.</p>
+                                    <p>Whether you have questions or you would just like to say hello, contact us.</p>
                                     <div>
                                         <div class="media contact-info">
                                             <span class="contact-info__icon mt-3"><i class="ti-location-pin"></i></span>
