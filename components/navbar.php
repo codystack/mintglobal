@@ -7,7 +7,7 @@
                             <div class="row d-flex justify-content-between align-items-center">
                                 <div class="header-info-left">
                                     <ul>     
-                                        <li><i class="fas fa-phone"></i> +234 813 480 6494</li>
+                                        <li><i class="fas fa-phone"></i> +7 977 492 56 85</li>
                                         <li><i class="far fa-envelope"></i>info@mintglobal.com.ng</li>
                                     </ul>
                                 </div>
@@ -43,7 +43,7 @@
                                                         <li><a href="">leasing and projects support services</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="<?php if($page=='Projects'){echo 'active';}?>"><a href="#">projects</a></li>
+                                                <!-- <li class="<?php if($page=='Projects'){echo 'active';}?>"><a href="#">projects</a></li> -->
                                             </ul>
                                             <div class="d-none d-xs-block">
                                                 <a href="contact" class="genric-btn primary e-large">Contact us </a>

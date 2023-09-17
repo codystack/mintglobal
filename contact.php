@@ -34,13 +34,19 @@
                                         <div class="media contact-info">
                                             <span class="contact-info__icon mt-3"><i class="ti-location-pin"></i></span>
                                             <div class="media-body">
+                                                <p class="text-white">Kosinskoye shosse 7, Novoye Pavlino microdistrict, balashikha, Moscow Region.</p>
+                                            </div>
+                                        </div>
+                                        <div class="media contact-info">
+                                            <span class="contact-info__icon mt-3"><i class="ti-location-pin"></i></span>
+                                            <div class="media-body">
                                                 <p class="text-white">Royal Office Building, <br>KM 25 Lekki - Epe Expressway, Lagos.</p>
                                             </div>
                                         </div>
                                         <div class="media contact-info">
                                             <span class="contact-info__icon mt-3"><i class="ti-mobile"></i></span>
                                             <div class="media-body">
-                                                <p>+234 906 416 6517<br>+234 813 480 6494</p>
+                                                <p>+7 977 492 56 85<br>+234 813 480 6494</p>
                                             </div>
                                         </div>
                                         <div class="media contact-info">
