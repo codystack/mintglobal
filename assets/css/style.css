@@ -4167,7 +4167,7 @@ hr {
 
 
 .gallery-area .single-gallery .thumb-content-box .thumb-content {
-  position: absolute;
+  position: relative;
   top: 50%;
   transform: translateY(-50%);
 }

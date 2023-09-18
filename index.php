@@ -70,59 +70,17 @@
         <?php include "./components/services.php"; ?>
 
         <?php include "./components/client-logo.php"; ?>
-        
-        <div class="categories-area section-padding40 gray-bg">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-7 col-lg-8">
-                        <div class="section-tittle text-center mb-100">
-                            <span class="element">Features</span>
-                            <h2>To increase productivity and cost effectiveness on the market.</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="single-cat">
-                            <div class="cat-icon">
-                                <img src="assets/img/gallery/icon1.png" alt="">
-                            </div>
-                            <div class="cat-cap">
-                                <h5><a href="services.html">Quality</a></h5>
-                                <p>We collect and analyze information about your general usage of the website, products, services, and courses.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="single-cat">
-                            <div class="cat-icon">
-                                <img src="assets/img/gallery/icon2.png" alt="">
-                            </div>
-                            <div class="cat-cap">
-                                <h5><a href="services.html">Reliablity</a></h5>
-                                <p>We collect and analyze information about your general usage of the website, products, services, and courses.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="single-cat">
-                            <div class="cat-icon">
-                                <img src="assets/img/gallery/icon3.png" alt="">
-                            </div>
-                            <div class="cat-cap">
-                                <h5><a href="services.html">Experience</a></h5>
-                                <p>We collect and analyze information about your general usage of the website, products, services, and courses.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="single-cat">
-                            <div class="cat-icon">
-                                <img src="assets/img/gallery/icon4.png" alt="">
-                            </div>
-                            <div class="cat-cap">
-                                <h5><a href="services.html">Manufacturing</a></h5>
-                                <p>We collect and analyze information about your general usage of the website, products, services, and courses.</p>
+
+        <div class="gallery-area">
+            <div class="container-fluid p-0 fix">
+                <div class="row no-gutters">
+                    <div class="col-12">
+                        <div class="single-gallery text-center">
+                            <div class="gallery-img" style="background-image: url(assets/img/bg-5.jpg);"></div>
+                            <div class="thumb-content-box">
+                                <div class="thumb-content">
+                                    <p style="font-size: 30px;">What we enjoy most is watching our ideas <br>take shape, and eventually come to life.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
