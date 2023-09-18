@@ -329,6 +329,10 @@ hr {
   border: 1px solid #062365;
 }
 
+.border-2 {
+  border: 1px solid #bcbbbb;
+}
+
 .theme-overlay {
   position: relative;
 }
@@ -8606,3 +8610,13 @@ del {
   margin-bottom: 10px;
 }
 
+
+/* Logo Slider */
+
+.slick-slide {
+  margin: 0px 25px;
+}
+
+.slick-slide img {
+  width: 100%;
+}
