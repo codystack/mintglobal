@@ -38,7 +38,7 @@
                                                 <li class="navs"><a href="#">services</a>
                                                     <ul class="submenu">
                                                         <li class="<?php if($page=='Engineering'){echo 'active';}?> navs"><a href="engineering-services">engineering services</a></li>
-                                                        <li class="navs"><a href="">procurement services</a></li>
+                                                        <li class="<?php if($page=='Procurement'){echo 'active';}?> navs"><a href="procurement-services">procurement services</a></li>
                                                         <li class="navs"><a href="">consultancy and manpower services</a></li>
                                                         <li class="navs"><a href="">leasing and projects support services</a></li>
                                                     </ul>

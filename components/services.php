@@ -3,7 +3,7 @@
                 <div class="row no-gutters">
                     <div class="col-xl-3 col-lg-3 col-md-6">
                         <div class="single-gallery text-center">
-                            <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
+                            <div class="gallery-img" style="background-image: url(assets/img/es-bg.jpg);"></div>
                             <div class="thumb-content-box">
                                 <div class="thumb-content">
                                     <h3>Engineering <br>Services</h3>
@@ -15,12 +15,12 @@
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6">
                         <div class="single-gallery no-margin text-center">
-                            <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                            <div class="gallery-img" style="background-image: url(assets/img/ps-bg.jpg);"></div>
                             <div class="thumb-content-box">
                                 <div class="thumb-content">
-                                    <h3>Procurement<br>Services</h3>
+                                    <h3>Procurement <br>Services</h3>
                                     <p>We collect and analyze information about your general usage of the website, products, services.</p>
-                                    <a href="services.html">Learn More</a>
+                                    <a href="procurement-services">Learn More</a>
                                 </div>
                             </div>
                         </div>

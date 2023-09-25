@@ -6,7 +6,7 @@
 
     <main>
         
-        <div class="slider-area2 section-bg2" data-background="assets/img/hero/hero2.png">
+        <div class="slider-area2 section-bg2" data-background="assets/img/hero2.png">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">

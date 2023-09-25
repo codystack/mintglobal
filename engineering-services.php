@@ -5,7 +5,7 @@
 ?>
 
     <main>
-        <div class="slider-area2 section-bg2" data-background="assets/img/hero/hero4.png">
+        <div class="slider-area2 section-bg2" data-background="assets/img/es-hero.png">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
@@ -32,7 +32,7 @@
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="singel-details-img mb-30">
-                        <img src="assets/img/gallery/projects-img2.png" alt="">
+                        <img src="assets/img/es1.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -41,12 +41,12 @@
         <section class="gray-bg">
             <div class="container section-padding40">
                 <div class="row">
-                    <div class="col-lg-7 col-md-12 col-sm-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="singel-details-img mb-30">
                             <img src="assets/img/es2.jpg" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-5 col-md-12 col-sm-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="section-tittle mb-35">
                             <h2>Our engineering services includes;</h2>
                         </div>
