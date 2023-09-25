@@ -66,6 +66,8 @@
                 </div>
             </div>
         </section>
+
+        <?php include "./components/certifications.php"; ?>
         
         <?php include "./components/services.php"; ?>
 

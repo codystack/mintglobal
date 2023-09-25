@@ -3,12 +3,8 @@
         <h2>Our Clients</h2>
     </div>
    <section class="customer-logos slider">
-      <div class="slide border-2"><img src="assets/img/logo/1.png"></div>
       <div class="slide border-2"><img src="assets/img/logo/2.png"></div>
-      <div class="slide border-2"><img src="assets/img/logo/3.png"></div>
-      <div class="slide border-2"><img src="assets/img/logo/4.png"></div>
       <div class="slide border-2"><img src="assets/img/logo/5.png"></div>
-      <div class="slide border-2"><img src="assets/img/logo/6.png"></div>
       <div class="slide border-2"><img src="assets/img/logo/7.png"></div>
       <div class="slide border-2"><img src="assets/img/logo/8.png"></div>
       <div class="slide border-2"><img src="assets/img/logo/9.png"></div>
