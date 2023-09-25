@@ -33,17 +33,18 @@
                                     <div class="main-menu mx-auto d-none d-lg-block">
                                         <nav> 
                                             <ul id="navigation">                                                                                          
-                                                <li class="<?php if($page=='Home'){echo 'active';}?>"><a href="./">home</a></li>
-                                                <li class="<?php if($page=='About'){echo 'active';}?>"><a href="about">about us</a></li>
-                                                <li><a href="#">services</a>
+                                                <li class="<?php if($page=='Home'){echo 'active';}?> navs"><a href="./">home</a></li>
+                                                <li class="<?php if($page=='About'){echo 'active';}?> navs"><a href="about">about us</a></li>
+                                                <li class="navs"><a href="#">services</a>
                                                     <ul class="submenu">
-                                                        <li><a href="">engineering services</a></li>
-                                                        <li><a href="">procurement services</a></li>
-                                                        <li><a href="">consultancy and manpower services</a></li>
-                                                        <li><a href="">leasing and projects support services</a></li>
+                                                        <li class="<?php if($page=='Engineering'){echo 'active';}?> navs"><a href="engineering-services">engineering services</a></li>
+                                                        <li class="navs"><a href="">procurement services</a></li>
+                                                        <li class="navs"><a href="">consultancy and manpower services</a></li>
+                                                        <li class="navs"><a href="">leasing and projects support services</a></li>
                                                     </ul>
                                                 </li>
-                                                <!-- <li class="<?php if($page=='Projects'){echo 'active';}?>"><a href="#">projects</a></li> -->
+                                                <li class="<?php if($page=='Media'){echo 'active';}?> navs"><a href="#">media</a></li>
+                                                <li class="<?php if($page=='Projects'){echo 'active';}?> navs"><a href="#">projects</a></li>
                                             </ul>
                                             <div class="d-none d-xs-block">
                                                 <a href="contact" class="genric-btn primary e-large">Contact us </a>

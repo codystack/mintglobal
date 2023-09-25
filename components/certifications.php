@@ -2,7 +2,7 @@
             <div class="row justify-content-between">
                 <div class="col-xl-3 col-lg-3 col-md-10">
                     <div class="about-caption mb-10">
-                        <div class="section-tittle mb-35">
+                        <div class="section-tittle">
                             <h2>Our Certifications</h2>
                         </div>
                     </div>

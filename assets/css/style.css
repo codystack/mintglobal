@@ -3875,7 +3875,7 @@ hr {
 .slider-area2 .hero-cap h2 {
   color: #fff;
   font-size: 50px;
-  font-weight: 400;
+  font-weight: 600;
   text-transform: capitalize;
   line-height: 1;
 }
@@ -8619,4 +8619,22 @@ del {
 
 .slick-slide img {
   width: 100%;
+}
+
+
+li {
+  position: relative;
+}
+
+ul li::before {
+  content: "\2022";
+  color: #086a77;
+  position: absolute;
+  font-size: 20px;
+  left: -19px;
+  top:-3px;
+}
+
+li.navs::before {
+  content: "";
 }
