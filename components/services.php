@@ -32,7 +32,7 @@
                                 <div class="thumb-content">
                                     <h3>Consultancy and Manpower Services</h3>
                                     <p>We collect and analyze information about your general usage of the website, products, services.</p>
-                                    <a href="services.html">Learn More</a>
+                                    <a href="consultancy-manpower-services">Learn More</a>
                                 </div>
                             </div>
                         </div>
