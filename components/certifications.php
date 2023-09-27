@@ -15,6 +15,9 @@
                         <div class="slide border-2" style="margin: 0px 10px"><img src="assets/img/logo/6.png"></div>
                         <div class="slide border-2" style="margin: 0px 10px"><img src="assets/img/logo/16.png"></div>
                         <div class="slide border-2" style="margin: 0px 10px"><img src="assets/img/logo/17.png"></div>
+                        <div class="slide border-2" style="margin: 0px 10px"><img src="assets/img/logo/18.png"></div>
+                        <div class="slide border-2" style="margin: 0px 10px"><img src="assets/img/logo/19.png"></div>
+                        <div class="slide border-2" style="margin: 0px 10px"><img src="assets/img/logo/20.png"></div>
                     </section>
                 </div>
             </div>

@@ -12,7 +12,7 @@
                                     </ul>
                                 </div>
                                 <div class="header-info-right">
-                                    <a href="quote" class="btn">Get Quotation <i class="ti-arrow-right"></i></a>
+                                    <a href="contact" class="btn">Get Quotation <i class="ti-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -40,7 +40,7 @@
                                                         <li class="<?php if($page=='Engineering'){echo 'active';}?> navs"><a href="engineering-services">engineering services</a></li>
                                                         <li class="<?php if($page=='Procurement'){echo 'active';}?> navs"><a href="procurement-services">procurement services</a></li>
                                                         <li class="<?php if($page=='Consultancy'){echo 'active';}?> navs"><a href="consultancy-manpower-services">consultancy and manpower services</a></li>
-                                                        <li class="navs"><a href="">leasing and projects support services</a></li>
+                                                        <li class="<?php if($page=='Leasing'){echo 'active';}?> navs"><a href="leasing-projects-support-services">leasing and projects support services</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="<?php if($page=='Media'){echo 'active';}?> navs"><a href="#">media</a></li>

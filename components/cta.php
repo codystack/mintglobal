@@ -11,7 +11,7 @@
                     </div>
                     <div class="col-xl-8 col-lg-8 col-md-8">
                         <div class="double-btn f-right ">
-                            <a href="quote" class="btn w-btn wantToWork-btn mr-20">Get quotation <i class="ti-arrow-right"></i></a>
+                            <a href="contact" class="btn w-btn wantToWork-btn mr-20">Get quotation <i class="ti-arrow-right"></i></a>
                             <a href="contact" class="btn2 w-btn wantToWork-btn">Talk to Us <i class="ti-arrow-right"></i></a>
                         </div>
                     </div>
