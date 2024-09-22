@@ -13,8 +13,8 @@
                         <div class="row">
                             <div class="col-xl-7 col-lg-9 col-md-8 col-sm-9">
                                 <div class="hero__caption">
-                                    <h1 data-animation="fadeInLeft" data-delay="0.2s">Providing engineering solutions at ease.</h1>
-                                    <p data-animation="fadeInLeft" data-delay="0.4s">We are constantly spotting problems and plotting how to solve them.</p>
+                                    <h1 data-animation="fadeInLeft" data-delay="0.2s">Delivering Results, Reliability, & Rock-Solid Dependability.</h1>
+                                    <!-- <p data-animation="fadeInLeft" data-delay="0.4s">We are constantly spotting problems and plotting how to solve them.</p> -->
                                 </div>
                             </div>
                         </div>
@@ -46,9 +46,9 @@
                         <div class="about-caption mb-10">
                             <div class="section-tittle mb-35">
                                 <span class="text-primary mb-0">WHO WE ARE</span>
-                                <h2>Contributing to Nigerian Content Capacity Building.</h2>
+                                <h2>Engineering and Human Capacity Developement.</h2>
                             </div>
-                            <p>Mint Global Resources Limited occupies the frontline position in the EPC and I industry as a result of its deliberate disposition in ensuring that it represents the best of the industry through perfectly harnessing the combinatory supply of both her human and materials resources available in her workforce for optimum project execution while ensuring a commensurate satisfactory level of her complete personnel makeup. In achieving this, a first rate service delivery is guaranteed with spill offs of professionalism and excellence.</p>
+                            <p>Mint Global Resources Limited occupies the Fore-front of EPCIC (Engineering, Procurement, Construction, installation and commissioning) industry through achieved experience, technology innovation and operates within the best practices and procedures of international organizations of standardization (ISO). We harness combinatory supply of human and materials resources available for optimum project execution and topnotch human capacity building so desired.</p>
                             <a href="about" class="text-primary">Learn More</a>
                         </div>
                     </div>
